@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sanjay Durai Pandian  
+# 💫 Hi 👋, I'm Sanjay Duraipandian  
 **A Passionate Student | Aspiring Designer 🎨 | Future Data Analyst 📊**  
 
 📩 **Email Me:** [sanjaydurai106@gamil.com](mailto:sanjaydurai106@gamil.com) for collaborations, projects, or just to connect!  
@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanjayy.07__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjayduraipandian106) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayduraipandian106/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sanjaydurai196) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaydurai106@gamil.com)  
 
